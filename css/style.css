@@ -1,0 +1,12 @@
+@font-face {
+    font-family: futura-reguler;
+    src: url(/assets/font/FuturaRenner-Regular.otf);
+}
+
+.fm-futura {
+    font-family: futura-reguler;
+}
+
+.bg-grey {
+    background-color: grey;
+}
